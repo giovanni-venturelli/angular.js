@@ -1,0 +1,24 @@
+{
+  "name": "giovanni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5", 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+"type" : "git"
+  , "url" : "https://github.com/uomoermeneutico/angular.js.git"
+    },
+  "author": "giovanni",
+  "license": "ISC"
+}
